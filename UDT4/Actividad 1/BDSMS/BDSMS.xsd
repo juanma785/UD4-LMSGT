@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+version="0.1"xml:lang="es"></xs:schema>
+<xs:element name="BDsms">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="sms" maxOccurs="unbounded"></xs:element>
+        </xs:sequence>
