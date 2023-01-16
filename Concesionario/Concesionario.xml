@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<xs:concesionario>
+    <xs:Cod-coche>1</xs:Cod-coche>
+<xs:marca>Lexus</xs:marca>
+<xs:modelo>Lexus CT</xs:modelo>
+<xs:matricula>0000 SXD</xs:matricula>
+<xs:potencia>82-136 CV</xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>2</xs:Cod-coche>
+<xs:marca>Automobile Dacia</xs:marca>
+<xs:modelo>Dacia Duster</xs:modelo>
+<xs:matricula>3685 HDP</xs:matricula>
+<xs:potencia>101 CV</xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>3</xs:Cod-coche>
+<xs:marca>KIA Picante</xs:marca>
+<xs:modelo>KIA</xs:modelo>
+<xs:matricula>1111 AAAA</xs:matricula>
+<xs:potencia>67-101 CV</xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>4</xs:Cod-coche>
+<xs:marca>MINI MINI Clubman</xs:marca>
+<xs:modelo>MINI</xs:modelo>
+<xs:matricula>6661 HXW</xs:matricula>
+<xs:potencia>136-306 CV</xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>5</xs:Cod-coche>
+<xs:marca>Aston Martin DB11</xs:marca>
+<xs:modelo>Aston Martin</xs:modelo>
+<xs:matricula>6774 FXS</xs:matricula>
+<xs:potencia>510-519 CV</xs:potencia>
+<xs:plazas>2</xs:plazas>
+<xs:num-puertas>2</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>6</xs:Cod-coche>
+<xs:marca>Renault</xs:marca>
+<xs:modelo>Twingo</xs:modelo>
+<xs:matricula>2511 WDJ</xs:matricula>
+<xs:potencia>82 CV</xs:potencia>
+<xs:plazas>4</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>7</xs:Cod-coche>
+<xs:marca>Ferrari</xs:marca>
+<xs:modelo>J50</xs:modelo>
+<xs:matricula>5649 JSN</xs:matricula>
+<xs:potencia>690 CV</xs:potencia>
+<xs:plazas>2</xs:plazas>
+<xs:num-puertas>2</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>8</xs:Cod-coche>
+<xs:marca>Lamborghini</xs:marca>
+<xs:modelo>Aventador</xs:modelo>
+<xs:matricula>6852 KWS</xs:matricula>
+<xs:potencia>740 CV</xs:potencia>
+<xs:plazas>2</xs:plazas>
+<xs:num-puertas>2</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>9</xs:Cod-coche>
+<xs:marca>Renault</xs:marca>
+<xs:modelo>Scenic 2</xs:modelo>
+<xs:matricula>1234 XYZ</xs:matricula>
+<xs:potencia>130 CV</xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>
+
+
+<xs:concesionario>
+    <xs:Cod-coche>10</xs:Cod-coche>
+<xs:marca>Maserati</xs:marca>
+<xs:modelo>Levante</xs:modelo>
+<xs:matricula></xs:matricula>
+<xs:potencia>275-580 CV </xs:potencia>
+<xs:plazas>5</xs:plazas>
+<xs:num-puertas>4</xs:num-puertas>
+</xs:concesionario>

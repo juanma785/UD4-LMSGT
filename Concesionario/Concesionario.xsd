@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.1" xmln:lang="es">
+<xs:element name="BDsms">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="concesionario" maxOccurs="unbounded"></xs:element>
+    <xs:complexType>
+        <xs:sequence>
+<xs:element name="Cod-coche" type="xs:string"/>
+<xs:element name="marca" type="xs:string"/>
+<xs:element name="modelo" type="xs:string"/>
+<xs:element name="matricula" type="xs:string"/>
+<xs:element name="potencia" type="xs:string"/>
+<xs:element name="plazas" type="xs:string"/>
+<xs:element name="num-puertas" type="xs:string"/>
+        </xs:sequence>
+        </xs:complexType>
+        </xs:element>
+    </xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
