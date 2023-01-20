@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+version="0.1"xml:lang="es"></xs:schema>
+<xs:element name="BDclientes">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="clientes" maxOccurs="unbounded"></xs:element>
+    <xs:complexType>
+        <xs:sequence>
+<xs:element name="Cod-sede" type="xs:string"/>
+<xs:element name="NombreEmpleado" type="xs:string"/>
+<xs:element name="Fecha" type="xs:string"/>
+<xs:element name="Descripción" type="xs:string"/>
+<xs:element name="Cod-cliente" type="xs:string"/>
+<xs:element name="Número" type="xs:string"/>
+<xs:element name="Coste" type="xs:string"/>
+<xs:element name="Resumen" type="xs:string"/>
+<xs:element name="Plazo" type="xs:string"/>
+        </xs:sequence>
+        </xs:complexType>
+        </xs:element>
+    </xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

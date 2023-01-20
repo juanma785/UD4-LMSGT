@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDclientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<clientes>
+<sede>
+<cliente>
+<Cod-sede>J9348582</Cod-sede>
+<NombreEmpleado></NombreEmpleado>
+<Fecha>20/9/20</Fecha>
+<Descripción>solvente</Descripción>
+<Cod-cliente>ASD-123</Cod-cliente>
+<Número>8/12/20</Número>
+<Coste>3000</Coste>
+<Resumen></Resumen>
+<Plazo>21/9/20</Plazo>
+</cliente>
+
+
+
+<cliente>
+    <Cod-sede>I9458603</Cod-sede>
+    <NombreEmpleado></NombreEmpleado>
+    <Fecha>12/8/20</Fecha>
+    <Descripción>solvente</Descripción>
+    <Cod-cliente>FDG-678</Cod-cliente>
+    <Número></Número>
+    <Coste>5000</Coste>
+    <Resumen></Resumen>
+    <Plazo>4/3/20</Plazo>
+    </cliente>
+
+    <cliente>
+        <Cod-sede>P2309458</Cod-sede>
+        <NombreEmpleado></NombreEmpleado>
+        <Fecha>6/7/20</Fecha>
+        <Descripción>solvente</Descripción>
+        <Cod-cliente>LAQ-256</Cod-cliente>
+        <Número></Número>
+        <Coste>6000</Coste>
+        <Resumen></Resumen>
+        <Plazo>11/6/20</Plazo>
+        </cliente>
+
+        <cliente>
+            <Cod-sede>A5487894</Cod-sede>
+            <NombreEmpleado></NombreEmpleado>
+            <Fecha>10/3/20</Fecha>
+            <Descripción>insolvente</Descripción>
+            <Cod-cliente>CRT-741</Cod-cliente>
+            <Número></Número>
+            <Coste>7000</Coste>
+            <Resumen></Resumen>
+            <Plazo>15/7/20</Plazo>
+            </cliente>
+
+            <clientes>
+                <Cod-sede>K0238475</Cod-sede>
+                <NombreEmpleado></NombreEmpleado>
+                <Fecha>27/5/20</Fecha>
+                <Descripción>insolvente</Descripción>
+                <Cod-cliente>IAC-504</Cod-cliente>
+                <Número></Número>
+                <Coste>8000</Coste>
+                <Resumen></Resumen>
+                <Plazo>18/10/20</Plazo>
+                </cliente>
+
+
+                <cliente>
+                    <Cod-sede>Q1930465</Cod-sede>
+                    <NombreEmpleado></NombreEmpleado>
+                    <Fecha>17/3/20</Fecha>
+                    <Descripción>solvente</Descripción>
+                    <Cod-cliente>XKS-983</Cod-cliente>
+                    <Número></Número>
+                    <Coste>9000</Coste>
+                    <Resumen></Resumen>
+                    <Plazo>10/5/20</Plazo>
+                    </cliente>
+
+
+
+                    <cliente>
+                        <Cod-sede>F9032384</Cod-sede>
+                        <NombreEmpleado></NombreEmpleado>
+                        <Fecha>12/11/20</Fecha>
+                        <Descripción>insolvente</Descripción>
+                        <Cod-cliente>FAE-203</Cod-cliente>
+                        <Número></Número>
+                        <Coste>3500</Coste>
+                        <Resumen></Resumen>
+                        <Plazo>4/6/20</Plazo>
+                        </cliente>
+
+
+
+                        <cliente>
+                            <Cod-sede>L8567021</Cod-sede>
+                            <NombreEmpleado></NombreEmpleado>
+                            <Fecha>21/5/20</Fecha>
+                            <Descripción>solvente</Descripción>
+                            <Cod-cliente>ZMN-435</Cod-cliente>
+                            <Número></Número>
+                            <Coste>4500</Coste>
+                            <Resumen></Resumen>
+                            <Plazo>8/7/20</Plazo>
+                            </cliente>
+
+
+
+                            <cliente>
+                                <Cod-sede>H82058687</Cod-sede>
+                                <NombreEmpleado></NombreEmpleado>
+                                <Fecha>7/2/20</Fecha>
+                                <Descripción>insolvente</Descripción>
+                                <Cod-cliente>WCV-340</Cod-cliente>
+                                <Número></Número>
+                                <Coste>5500</Coste>
+                                <Resumen>3/4/20</Resumen>
+                                <Plazo></Plazo>
+                                </cliente>
+
+
+                                <cliente>
+                                    <Cod-sede>X1058576</Cod-sede>
+                                    <NombreEmpleado></NombreEmpleado>
+                                    <xs:Fecha>3/7/20</xs:Fecha>
+                                    <Descripción>insolvente</Descripción>
+                                    <Cod-cliente>AXD-498</Cod-cliente>
+                                    <Número></Número>
+                                    <Coste>2500</Coste>
+                                    <Resumen></Resumen>
+                                    <Plazo>25/6/20</Plazo>
+                                    </cliente>
+                                </sede>
+                                </cliente>
+                                        </BDclientes>
