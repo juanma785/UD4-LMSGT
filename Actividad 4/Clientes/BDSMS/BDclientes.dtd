@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding ="ISO-8859-1"?>
+<!ELEMENT BDclientes (clientes)>
+<!ELEMENT BDclientes (sede, NombreEmpleado, Fecha, desCliente, numero, vivienda, cliente, coste, Resumen, Plazo)>
+<!ELEMENT sede(#ID)>
+<!ELEMENT NombreEmpleado (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT desCliente (#PCDATA)>
+<!ELEMENT coste (#PCDATA)>
+<!ELEMENT resumen (#CDATA)>
+<!ELEMENT Plazo (#PCDATA)>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+version="0.1"xml:lang="es">
+</xs:schema>
+<xs:element name="clientes" type = "clienteDatos">
+    <xs:complexType name ="clienteDatos">
+        <xs:sequence>
+            <xs:element name="sede" type="SedeDatos">maxOccurs="unbounded"</xs:element>
+    <xs:complexType>
+        <xs:sequence>
+<xs:element name="NombreEmpleado" type="xs:string"/>
+<xs:element name="Fecha" type="xs:string"/>
+<xs:element name="descCliente" type="xs:string"/>
+<xs:element name="numero" type="xs:string"/>
+<xs:element name="vivienda" type="xs:string"/>
+<xs:element name="cliente" type="xs:string"/>
+<xs:element name="Coste" type="xs:string"/>
+<xs:element name="Resumen" type="xs:string"/>
+<xs:element name="Plazo" type="xs:string"/>
+<xs:complextype>
+
+        </xs:sequence>
+        </xs:complexType>
+        </xs:element>
+    </xs:sequence>
+</xs:complexType>
+</xs:complextype>
+</xs:element>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+<xs:simpleType name="codigo-cliente">
+    <xs:restriction base= xs:string>
+    <xs:pathern value = []([])
+</xs:restriction>
+</xs:simpleType>

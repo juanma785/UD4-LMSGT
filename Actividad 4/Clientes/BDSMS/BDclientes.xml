@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDclientes xml:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<clientes>
+    <sede codigo="J9348582">
+    <NombreEmpleado>Manuel</NombreEmpleado>
+    <Fecha>20/9/20</Fecha>
+<descCliente>solvente</descCliente>
+<numero>10</numero>
+<vivienda ID="001">
+<cliente codigo="AAA-112">
+<Coste>100</Coste>
+<Resumen>Producto muy frágil</Resumen>
+<Plazo>10</Plazo>
+</sede>
+</cliente>
+</vivienda>
+</clientes>
+
+
+<clientes>
+    <sede codigo ="I9458603">
+    <NombreEmpleado>Enrique</NombreEmpleado>
+    <Fecha>12/8/20</Fecha>
+    <cliente codigo="FDG-678"></cliente>
+    <descCliente>solvente</descCliente>
+    <numero>11</numero>
+    <vivienda ID="002">
+    <Coste>130</Coste>
+    <Resumen>Producto nada frágil</Resumen>
+    <Plazo>17</Plazo>
+</sede>
+</cliente>
+</vivienda>
+    </clientes>
+
+
+    <clientes>
+        <sede codigo="P2309458">
+        <NombreEmpleado>Fernando</NombreEmpleado>
+        <Fecha>6/7/20</Fecha>
+        <cliente codigo="LAQ-256">
+        <descCliente> insolvente</descCliente>
+        <numero>12</numero>
+        <vivienda ID="003">
+        <Coste>150</Coste>
+        <Resumen>solvente</Resumen>
+        <Plazo>18</Plazo>
+        </sede>
+    </cliente>
+</vivienda>
+        </clientes>
+
+        <cliente>
+            <sede codigo="A5487894">
+            <NombreEmpleado></NombreEmpleado>
+            <Fecha>10/3/20</Fecha>
+            <Descripción>insolvente</Descripción>
+            <cliente codigo="CRT-741">
+            <numero>13</numero>
+            <vivienda ID="004">
+            <Coste>170</Coste>
+            <Resumen>Producto muy frágil</Resumen>
+            <Plazo>19</Plazo>
+            </sede>
+            </cliente>
+        </vivienda>
+    </clienes>
+
+
+            <clientes>
+                <sede codigo="K0238475">
+                <NombreEmpleado>Eustaquio</NombreEmpleado>
+                <Fecha>27/5/20</Fecha>
+                <Descripción>insolvente</Descripción>
+                <cliente codigo="IAC-504">
+                <Número>14</Número>
+                <vivienda ID="005">
+                <Coste>200</Coste>
+                <Resumen>Producto nada frágil</Resumen>
+                <Plazo>20</Plazo>
+            </sede>
+        </cliente>
+    </vivienda>
+ </clientes>
+              
+
+
+                <cliente>s
+                    <sede codigo = "Q1930465">
+                    <NombreEmpleado>Antonio</NombreEmpleado>
+                    <Fecha>17/3/20</Fecha>
+                    <Descripción>solvente</Descripción>
+                    <cliente codigo="XKS-983">
+                    <Número>15</Número>
+                    <vivienda ID="006">
+                    <Coste>230</Coste>
+                    <Resumen>Producto muy frágil</Resumen>
+                    <Plazo>21</Plazo>
+                </sede>
+            </cliente>
+        </vivienda>
+         </clientes>
+
+
+
+                    <clientes>
+                        <sede codigo="F9032384">
+                        <NombreEmpleado>Luis</NombreEmpleado>
+                        <Fecha>12/11/20</Fecha>
+                        <Descripción>insolvente</Descripción>
+                        <cliente codigo ="FAE-203">
+                        <Número>16</Número>
+                        <vivienda ID="007">
+                        <Coste>250</Coste>
+                        <Resumen>Producto nada frágil</Resumen>
+                        <Plazo>22</Plazo>
+                        </sede>
+                    </cliente>
+                </vivienda>
+                        </clientes>
+
+
+
+                        <clientes>
+                            <sede codigo = "L8567021">
+                            <NombreEmpleado>Rodrigo</NombreEmpleado>
+                            <Fecha>21/5/20</Fecha>
+                            <Descripción>solvente</Descripción>
+                            <cliente codigo="ZMN-435">
+                            <Número>17</Número>
+                            <vivienda ID="008">
+                            <Coste>300</Coste>
+                            <Resumen>Producto nada frágil</Resumen>
+                            <Plazo>23</Plazo>
+                            </sede>
+                            </cliente>
+                        </vivienda>
+                            </clientes>
+
+
+
+                            <cliente>
+                                <sede codigo = "H82058687">
+                                <NombreEmpleado>Fran</NombreEmpleado>
+                                <Fecha>7/2/20</Fecha>
+                                <Descripción>insolvente</Descripción>
+                                <cliente codigo="WCV-340">
+                                <Número>18</Número>
+                                <vivienda ID="009">
+                                <Coste>110</Coste>
+                                <Resumen>Producto nada frágil/<Resumen>
+                                <Plazo>24</Plazo>
+                                </sede>
+                            </cliente>
+                        </vivienda>
+                                </clientes>
+
+
+                                <cliente>
+                                    <sede codigo = "X1058576">
+                                    <NombreEmpleado>Álvaro</NombreEmpleado>
+                                    <xs:Fecha>3/7/20</xs:Fecha>
+                                    <Descripción>insolvente</Descripción>
+                                    <cliente codigo="AXD-498"></Cod-cliente>
+                                    <Número>19</Número>
+                                    <vivienda ID="010"></vivienda>
+                                    <Coste>180</Coste>
+                                    <Resumen>Producto muy frágil</Resumen>
+                                    <Plazo>25</Plazo>
+                                    </cliente>
+                                </sede>
+                                </cliente>
+                                        </BDclientes>
+
+
+
+
+
+
+<clientes>
+    <cliente codigo="AAA-112">
+        <descCliente>Insolvente</descCliente>
+        <numero>10</numero>
+        <vivenda ID="001">
+        <coste>100</coste>
+        <resumen>Producto muy frágil</resumen>
+        <plazo>10</plazo>
+    </vivenda ID="002">
+    <coste>130</coste>
+    <resumen>Producto nada frágil</resumen>
+    <plazo>17</plazo>
+</vivienda>
+    </cliente>
+</clientes>
