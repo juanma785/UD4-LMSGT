@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modulosProfesionales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BDModulos.xsd">
+<modulos>
+  <modulo>
+    <nombre>Desarrollo de aplicaciones web</nombre>
+    <contenidos>
+      <unidadDidactica>
+        <tipo>Programación</tipo>
+        <descripcion>Introducción a la programación en Java, sintaxis básica, conceptos de objetos y clases.</descripcion>
+      </unidadDidactica>
+
+
+      <unidadDidactica>
+        <tipo>Base de datos</tipo>
+        <descripcion>Conceptos básicos de bases de datos relacionales, modelo entidad-relación, lenguaje SQL.</descripcion>
+      </unidadDidactica>
+
+
+      <unidadDidactica>
+        <tipo>Entorno de Desarrollo</tipo>
+        <descripcion>Desarrollo de aplicaciones web con Java y tecnologías relacionadas como JSP, Servlets y JDBC.</descripcion>
+      </unidadDidactica>
+
+    </contenidos>
+  </modulo>
+
+
+  <modulo>
+    <nombre>Sistemas Informático</nombre>
+    <contenidos>
+      <unidadDidactica>
+        <tipo>Instalación y configuración de sistemas operativos</tipo>
+        <descripcion>Instalación y configuración de sistemas operativos como Windows y Linux, gestión de usuarios y permisos.</descripcion>
+      </unidadDidactica>
+
+
+      <unidadDidactica>
+        <tipo>Lenguaje de Marca</tipo>
+        <descripcion>Conceptos básicos de redes de computadoras, topologías, protocolos y direccionamiento IP.</descripcion>
+      </unidadDidactica>
+
+
+      <unidadDidactica>
+        <tipo>Formación Orientativa Laboral</tipo>
+        <descripcion>Administración de bases de datos relacionales, optimización de consultas, copias de seguridad y recuperación de datos.</descripcion>
+      </unidadDidactica>
+
+    </contenidos>
+  </modulo>
+</modulos>

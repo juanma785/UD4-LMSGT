@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding ="ISO-8859-1"?>
+<!ELEMENT BDModulos (BDModulos)>
+<!ELEMENT MBDModulos (Nombre, Contenidos)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Contenidos (UD+)>
+<!ELEMENT UD (Tipo, Descripcion)>
+<!ELEMENT Tipo (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
